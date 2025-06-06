@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=200&section=header&text=Hey%20I'm%20Sounak%20(@starreh-w0w)&fontSize=40&fontAlignY=40&desc=Senior%20Software%20Engineer%20%7C%20Backend%20%7C%20System%20Design%20%7C%20Java%20%7C%20Python&descAlignY=60&animation=fadeIn" alt="banner"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=Hey%20I'm%20Sounak%20(@starreh-w0w)&fontColor=000000&fontSize=40&fontAlignY=40&desc=Senior%20Software%20Engineer%20%7C%20Backend%20%7C%20Java%20%7C%20Spring%20Boot%207C%20DSA%207C%20OOPs%207C%20System%20Design%20%&descAlignY=60&animation=fadeIn" alt="banner"/>
+
 </p>
 
 # 🌌 Hey there, I'm Sounak!
@@ -8,7 +9,7 @@ I'm a **Senior Software Engineer** who loves designing scalable systems, buildin
 
 ---
 
-## 🧭 About Me
+## 🤔 About Me
 
 - 💻 Backend Expert in **Java**, **Python**, **Spring Boot**, and **Flask**
 - 📦 Shipping **REST APIs**, **Microservices**, **Distributed Systems**, and custom **SDKs**
@@ -20,7 +21,8 @@ I'm a **Senior Software Engineer** who loves designing scalable systems, buildin
 
 ## 🛠️ Tech Stack
 
-**Languages**  
+**Languages**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -35,6 +37,7 @@ I'm a **Senior Software Engineer** who loves designing scalable systems, buildin
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
