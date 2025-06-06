@@ -3,7 +3,7 @@
 
 </p>
 
-# 🌌 Hey there, I'm Sounak!
+# 👋 Hey there, I'm Sounak!
 
 I'm a **Senior Software Engineer** who loves designing scalable systems, building clean backend architectures, and solving real-world problems with elegant code.
 
