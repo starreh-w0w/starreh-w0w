@@ -10,7 +10,7 @@ I'm a **Senior Software Engineer** who loves designing scalable systems, buildin
 
 ## 🤔 About Me
 
-- 💻 Backend Expert in **Java**, **Python**, **Spring Boot**, and **Flask**
+- 💻 Backend Expert in **C++**, **Java**, **Python**, **Spring Boot**, and **Flask**
 - 📦 Shipping **REST APIs**, **Microservices**, **Distributed Systems**, and custom **SDKs**
 - 💪 Strong in **DSA**, **OOP**, **Design Patterns**, **Low Level Designs**
 - 🔎 Focussing on **Scalability**, **Performance** and **Observability**
