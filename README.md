@@ -40,18 +40,6 @@ I'm a **Senior Software Engineer** who loves designing scalable systems, buildin
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=starreh-w0w&theme=tokyonight" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=starreh-w0w&show_icons=true&theme=tokyonight&hide=issues" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starreh-w0w&layout=compact&theme=tokyonight" />
-</div>
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/snkry)
